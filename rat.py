@@ -40,8 +40,8 @@ import subprocess
 import requests
 from ctypes import wintypes
 
-BOT_TOKEN = "8655624468:AAGce9rFcLPKQT2b2DLeYMeyc6RRdV0fLL4"
-CHAT_ID   = "-1004402654326"          # napr. "123456789"
+BOT_TOKEN = "bottoken"
+CHAT_ID   = "chatid"          # napr. "123456789"
 
 API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 UPD_OFFSET = 0
